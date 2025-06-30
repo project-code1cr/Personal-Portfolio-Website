@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Personal-Portfolio-Website/static/css/main.5349b304.css",
-    "main.js": "/Personal-Portfolio-Website/static/js/main.d838c427.js",
-    "static/media/image.png": "/Personal-Portfolio-Website/static/media/image.00cdf3615da8d4c54ace.png",
-    "static/media/portfolio-6.png": "/Personal-Portfolio-Website/static/media/portfolio-6.4a10fac7d271e87859e9.png",
-    "static/media/portfolio-2.png": "/Personal-Portfolio-Website/static/media/portfolio-2.33d06b368b4e6395030e.png",
-    "static/media/portfolio-4.png": "/Personal-Portfolio-Website/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
-    "static/media/portfolio-1.png": "/Personal-Portfolio-Website/static/media/portfolio-1.b33adf772d54ab33e953.png",
-    "static/media/portfolio-5.png": "/Personal-Portfolio-Website/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
-    "static/media/portfolio-3.png": "/Personal-Portfolio-Website/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
-    "static/media/facebook.png": "/Personal-Portfolio-Website/static/media/facebook.81dd033a37c4860f7121.png",
-    "static/media/adobe.png": "/Personal-Portfolio-Website/static/media/adobe.a08b8360ff7b700ed0c4.png",
-    "static/media/walmart.png": "/Personal-Portfolio-Website/static/media/walmart.1d2b5e5c5c5a8e2bd5ce.png",
-    "static/media/ui-design.png": "/Personal-Portfolio-Website/static/media/ui-design.c4acd455fc2040eddcc8.png",
-    "static/media/instagram.png": "/Personal-Portfolio-Website/static/media/instagram.0bcd1dcb7d853c327af7.png",
-    "index.html": "/Personal-Portfolio-Website/index.html",
-    "main.5349b304.css.map": "/Personal-Portfolio-Website/static/css/main.5349b304.css.map",
-    "main.d838c427.js.map": "/Personal-Portfolio-Website/static/js/main.d838c427.js.map"
+    "main.css": "/project-code1cr.github.io/Personal-Portfolio-Website/static/css/main.a00db9be.css",
+    "main.js": "/project-code1cr.github.io/Personal-Portfolio-Website/static/js/main.f8d9d881.js",
+    "static/media/portfolio-6.png": "/project-code1cr.github.io/Personal-Portfolio-Website/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/portfolio-2.png": "/project-code1cr.github.io/Personal-Portfolio-Website/static/media/portfolio-2.33d06b368b4e6395030e.png",
+    "static/media/image.png": "/project-code1cr.github.io/Personal-Portfolio-Website/static/media/image.e4149bad29913564002a.png",
+    "static/media/portfolio-4.png": "/project-code1cr.github.io/Personal-Portfolio-Website/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
+    "static/media/portfolio-1.png": "/project-code1cr.github.io/Personal-Portfolio-Website/static/media/portfolio-1.b33adf772d54ab33e953.png",
+    "static/media/portfolio-5.png": "/project-code1cr.github.io/Personal-Portfolio-Website/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
+    "static/media/portfolio-3.png": "/project-code1cr.github.io/Personal-Portfolio-Website/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
+    "static/media/facebook.png": "/project-code1cr.github.io/Personal-Portfolio-Website/static/media/facebook.81dd033a37c4860f7121.png",
+    "static/media/adobe.png": "/project-code1cr.github.io/Personal-Portfolio-Website/static/media/adobe.a08b8360ff7b700ed0c4.png",
+    "static/media/walmart.png": "/project-code1cr.github.io/Personal-Portfolio-Website/static/media/walmart.1d2b5e5c5c5a8e2bd5ce.png",
+    "static/media/ui-design.png": "/project-code1cr.github.io/Personal-Portfolio-Website/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/project-code1cr.github.io/Personal-Portfolio-Website/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/project-code1cr.github.io/Personal-Portfolio-Website/index.html",
+    "main.a00db9be.css.map": "/project-code1cr.github.io/Personal-Portfolio-Website/static/css/main.a00db9be.css.map",
+    "main.f8d9d881.js.map": "/project-code1cr.github.io/Personal-Portfolio-Website/static/js/main.f8d9d881.js.map"
   },
   "entrypoints": [
-    "static/css/main.5349b304.css",
-    "static/js/main.d838c427.js"
+    "static/css/main.a00db9be.css",
+    "static/js/main.f8d9d881.js"
   ]
 }
