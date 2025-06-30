@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Personal-Portfolio-Website/static/css/main.5349b304.css",
-    "main.js": "/Personal-Portfolio-Website/static/js/main.2689db3f.js",
+    "main.js": "/Personal-Portfolio-Website/static/js/main.ea65f86c.js",
     "static/media/image.png": "/Personal-Portfolio-Website/static/media/image.7368025c68899a4dbed0.png",
-    "static/media/portfolio-6.png": "/Personal-Portfolio-Website/static/media/portfolio-6.4a10fac7d271e87859e9.png",
-    "static/media/portfolio-2.png": "/Personal-Portfolio-Website/static/media/portfolio-2.33d06b368b4e6395030e.png",
-    "static/media/portfolio-4.png": "/Personal-Portfolio-Website/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
-    "static/media/portfolio-1.png": "/Personal-Portfolio-Website/static/media/portfolio-1.b33adf772d54ab33e953.png",
-    "static/media/portfolio-5.png": "/Personal-Portfolio-Website/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
-    "static/media/portfolio-3.png": "/Personal-Portfolio-Website/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
+    "static/media/portfolio-2.png": "/Personal-Portfolio-Website/static/media/portfolio-2.a267cabbf778797c178c.png",
+    "static/media/portfolio-1.png": "/Personal-Portfolio-Website/static/media/portfolio-1.a03c17df4f0f77fa15e6.png",
+    "static/media/portfolio-5.png": "/Personal-Portfolio-Website/static/media/portfolio-5.1addc7fed4c3f6f7caa9.png",
+    "static/media/portfolio-6.png": "/Personal-Portfolio-Website/static/media/portfolio-6.1ada9aa335bb929c8396.png",
+    "static/media/portfolio-3.png": "/Personal-Portfolio-Website/static/media/portfolio-3.c5be89f84dbdd3ade43e.png",
+    "static/media/portfolio-4.png": "/Personal-Portfolio-Website/static/media/portfolio-4.3512ee625a89b2eff15c.png",
     "static/media/facebook.png": "/Personal-Portfolio-Website/static/media/facebook.81dd033a37c4860f7121.png",
     "static/media/adobe.png": "/Personal-Portfolio-Website/static/media/adobe.a08b8360ff7b700ed0c4.png",
     "static/media/walmart.png": "/Personal-Portfolio-Website/static/media/walmart.1d2b5e5c5c5a8e2bd5ce.png",
@@ -16,10 +16,10 @@
     "static/media/instagram.png": "/Personal-Portfolio-Website/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/Personal-Portfolio-Website/index.html",
     "main.5349b304.css.map": "/Personal-Portfolio-Website/static/css/main.5349b304.css.map",
-    "main.2689db3f.js.map": "/Personal-Portfolio-Website/static/js/main.2689db3f.js.map"
+    "main.ea65f86c.js.map": "/Personal-Portfolio-Website/static/js/main.ea65f86c.js.map"
   },
   "entrypoints": [
     "static/css/main.5349b304.css",
-    "static/js/main.2689db3f.js"
+    "static/js/main.ea65f86c.js"
   ]
 }
