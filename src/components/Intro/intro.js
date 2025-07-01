@@ -16,7 +16,7 @@ const Intro = () => {
         <p className="introPara">
           I am a third-year Electronics and Communication Engineering (ECE)
           student at NIT Patna <br/> with a strong interest  in problem solving,
-          competitive programming, and full-stack development. <br/>I have developed
+          competitive programming, and Web development. <br/>I have developed
           several hands-on  projects that reflect my passion for coding and <br/>
           building impactful applications. Always eager to learn and explore  new
           technologies.
