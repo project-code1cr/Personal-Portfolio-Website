@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Personal-Portfolio-Website/static/css/main.5349b304.css",
-    "main.js": "/Personal-Portfolio-Website/static/js/main.ea65f86c.js",
+    "main.js": "/Personal-Portfolio-Website/static/js/main.f2bc1b16.js",
     "static/media/image.png": "/Personal-Portfolio-Website/static/media/image.7368025c68899a4dbed0.png",
     "static/media/portfolio-2.png": "/Personal-Portfolio-Website/static/media/portfolio-2.a267cabbf778797c178c.png",
     "static/media/portfolio-1.png": "/Personal-Portfolio-Website/static/media/portfolio-1.a03c17df4f0f77fa15e6.png",
@@ -9,17 +9,17 @@
     "static/media/portfolio-6.png": "/Personal-Portfolio-Website/static/media/portfolio-6.1ada9aa335bb929c8396.png",
     "static/media/portfolio-3.png": "/Personal-Portfolio-Website/static/media/portfolio-3.c5be89f84dbdd3ade43e.png",
     "static/media/portfolio-4.png": "/Personal-Portfolio-Website/static/media/portfolio-4.3512ee625a89b2eff15c.png",
-    "static/media/facebook.png": "/Personal-Portfolio-Website/static/media/facebook.81dd033a37c4860f7121.png",
-    "static/media/adobe.png": "/Personal-Portfolio-Website/static/media/adobe.a08b8360ff7b700ed0c4.png",
-    "static/media/walmart.png": "/Personal-Portfolio-Website/static/media/walmart.1d2b5e5c5c5a8e2bd5ce.png",
+    "static/media/codechef.png": "/Personal-Portfolio-Website/static/media/codechef.b421e8b8912b634b998b.png",
+    "static/media/leet.png": "/Personal-Portfolio-Website/static/media/leet.07f4d17bad8b42d0950b.png",
+    "static/media/gfg.png": "/Personal-Portfolio-Website/static/media/gfg.c267ed2ddc94dd56592c.png",
     "static/media/ui-design.png": "/Personal-Portfolio-Website/static/media/ui-design.c4acd455fc2040eddcc8.png",
     "static/media/instagram.png": "/Personal-Portfolio-Website/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/Personal-Portfolio-Website/index.html",
     "main.5349b304.css.map": "/Personal-Portfolio-Website/static/css/main.5349b304.css.map",
-    "main.ea65f86c.js.map": "/Personal-Portfolio-Website/static/js/main.ea65f86c.js.map"
+    "main.f2bc1b16.js.map": "/Personal-Portfolio-Website/static/js/main.f2bc1b16.js.map"
   },
   "entrypoints": [
     "static/css/main.5349b304.css",
-    "static/js/main.ea65f86c.js"
+    "static/js/main.f2bc1b16.js"
   ]
 }
