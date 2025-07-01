@@ -9,9 +9,9 @@ import Portfolio6 from "../../assets/portfolio-6.png";
 const Works = () => {
   return (
     <section id="works">
-      <h2 className="workstitle">MY Portfolio</h2>
+      <h1 className="workstitle">My Projects</h1>
       <span className="worksDesc">
-        I take pride in paying attention to the smallest details and{" "}
+      Here are some of my user-friendly projects that I built with lot of curiosity!{" "}
       </span>
       <div className="worksImgs">
         {/* <img src= {Portfolio1} alt=''className='worksImg' />
@@ -69,7 +69,7 @@ const Works = () => {
           <img src={Portfolio5} alt="" className="worksImg" />
         </a>
       </div>
-      <button className="workBtn">See More</button>
+     
     </section>
   );
 };

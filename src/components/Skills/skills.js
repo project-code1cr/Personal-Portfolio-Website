@@ -12,22 +12,22 @@ const Skills = () => {
         <div className='skillBar'>
             <img src={UIDesign}alt='UIDesign'className='skillBarImg'/>
             <div className='skillBarText'>
-                <h2>UI/UX Design</h2>
-                <p>This is a Demo</p>
+                <h2> Frontend Developer</h2>
+                <p>Designing responsive and user-friendly web apps using HTML, CSS, and JavaScript.</p>
             </div>
         </div>
         <div className='skillBar'>
             <img src={WebDesign}alt='WebDesign'className='skillBarImg'/>
             <div className='skillBarText'>
-                <h2>WebDesign</h2>
-                <p>This is a Demo</p>
+                <h2>Competitive Programmer</h2>
+                <p>Solved 500+ DSA problems across LeetCode, Codeforces, and CodeChef with consistent practice.</p>
             </div>
         </div>
         <div className='skillBar'>
             <img src={AppDesign}alt='AppDesign'className='skillBarImg'/>
             <div className='skillBarText'>
-                <h2>AppDesign</h2>
-                <p>This is a Demo</p>
+                <h2>Active Learner </h2>
+                <p>Actively learning DBMS, Operating Systems, and core CS concepts alongside development.</p>
             </div>
         </div>
        </div>
