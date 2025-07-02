@@ -22,7 +22,7 @@ const Works = () => {
             <img src= {Portfolio6} alt=''className='worksImg'/> */}
 
         <a
-          href="https://project-code1cr.github.io/Real-Time-Chat-App/"
+          href="https://quick-chat-full-stack-six.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -30,7 +30,7 @@ const Works = () => {
         </a>
 
         <a
-          href="https://project-code1cr.github.io/sorting-visualizer/"
+          href="https://project-code1cr.github.io/Sorting-Visualizer-Application/"
           target="_blank"
           rel="noopener noreferrer"
         >
