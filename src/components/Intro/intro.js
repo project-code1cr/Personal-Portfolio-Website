@@ -23,7 +23,7 @@ const Intro = () => {
         </p>
 
         <a
-          href="https://drive.google.com/file/d/1OfLzjexQyWsdsQMY9s06YqIFJ4fVIMBY/view?usp=drivesdk"
+          href="https://drive.google.com/file/d/1RhQT3BCiUaVk3GdajeMq3N2URNaolFDR/view?usp=drivesdk "
           target="_blank"
           rel="noopener noreferrer"
         >
